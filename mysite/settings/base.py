@@ -27,8 +27,6 @@ INSTALLED_APPS = [
     # Our new  apps
 
     "blog", 
-
-    #other packages
     "home",
     "search",
     "wagtail.contrib.forms",
